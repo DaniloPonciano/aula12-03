@@ -1,4 +1,4 @@
-package atividades_08_03;
+package atividades_08_03.Calculadora;
 
 import java.util.Scanner;
 

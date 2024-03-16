@@ -1,4 +1,4 @@
-package atividades_08_03;
+package atividades_08_03.Calculadora;
 
 public class Calculadora {
     public double somar(double num1, double num2){
